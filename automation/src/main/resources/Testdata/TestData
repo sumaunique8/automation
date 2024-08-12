@@ -1,0 +1,6 @@
+URL = https://testcl-oleweb.adecco.it/login31.asp
+branch=0594
+bran_xpath=//input[@id='txtBranchId']
+main_menu=//a[text()='Candidati']
+sub_menu=//a[text()='Inserisci CV']
+create_button=//span[text()='Crea Numero Automatico']

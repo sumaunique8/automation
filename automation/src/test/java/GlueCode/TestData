@@ -1,0 +1,2 @@
+URL= https://testcl-oleweb.adecco.it/login31.asp
+txt_branchid=By.xpath("//input[@id='txtBranchId']");
