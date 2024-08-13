@@ -12,9 +12,9 @@ plugin={"pretty", "Hooks.customReportListener" ,
 		"junit:target/JunitReports/reports.xml",
 		"json:target/JSONReports/report.json",
 		"html:target/HtmlReport/HtmlReport"
-},dryRun=false,monochrome=true,
-        tags="@Scenario1_Creating_Automatic_Number_&_Deleting"
-//         tags="@Scenario_2:ClientFilter_&_getting_History_of_orders"
+},dryRun=false,monochrome=true
+//        tags="@Scenario1_Creating_Automatic_Number_&_Deleting"
+//      tags="@Scenario_2:ClientFilter_&_getting_History_of_orders"
 )
 public class TestRunnerjunit   {
 
